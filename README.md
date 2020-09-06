@@ -9,4 +9,4 @@ Find the gui in mainframe.rbxm
 
 Find the plugin itself in autoweld.rbxm
 
-Please do not reupload the plugin.
+You are allowed to reupload or modify it, but make sure to give us credit.
